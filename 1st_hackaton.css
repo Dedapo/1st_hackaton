@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    font-size-adjust: calc(1);
+    color: rgb(5, 217, 245);
+}
+body{
+    color: rgb(5, 214, 241);
+    font-weight: bolder;
+    font-size: x-large;
+}
+h3{
+    text-align: center;
+    color: rgb(17, 3, 80);
+}
+h4{
+    text-align: center;
+    color: rgb(16, 3, 92);
+}
+p{
+    text-align: center;
+}
